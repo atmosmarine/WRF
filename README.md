@@ -161,8 +161,8 @@
 5. Teste o GrADS e Ferret:
    ```bash
    grads
-   ferret
-   go tutorial
+   
+   ferret >> go tutorial
    ```
 
 
